@@ -25,60 +25,12 @@ UK-based engineering consultancy specializing in **non-intrusive pipeline monito
 
 ---
 
-## Core Technology
-
-| Platform | Function | Accuracy | ROI |
-|----------|----------|----------|-----|
-| **SYNC** | Data Integration & Visualization | 90-95% | 18-24 mo |
-| **HORIZON** | Predictive Analytics & Corrosion Modeling | 90-97% | 10-15 mo |
-| **PULSE** | Real-time Leak Detection | 85-95% | 12-18 mo |
-| **NODE** | Dynamic Intelligence & Digital Twins | >98% | 6-12 mo |
-
----
-
-## Capabilities
-
-```
-├── Leak Detection
-│   ├── Non-intrusive pressure monitoring
-│   ├── ML-based signal classification
-│   └── Real-time alerting
-│
-├── Predictive Analytics
-│   ├── Physics-informed ML corrosion models
-│   ├── Flow assurance modeling
-│   └── 90-180 day integrity forecasting
-│
-└── Data Integration
-    ├── Multi-source sensor fusion
-    ├── Existing device connectivity
-    └── Unified dashboard visualization
-```
-
----
-
 ## Sectors
 
 - **Oil & Gas** — Early micro-leak detection for critical pipeline infrastructure
 - **Utilities** — Water & gas distribution network monitoring
 - **Marine** — Underwater pipeline & offshore installation safeguards
 - **Nuclear** — Precision monitoring for cooling & containment systems
-
----
-
-## Engineering Approach
-
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  Continuous     │────▶│  Multi-Source   │────▶│  Predictive     │
-│  Learning       │     │  Fusion         │     │  Forecasting    │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-        │                       │                       │
-        ▼                       ▼                       ▼
-   Algorithms that         Pressure, corrosion,    Issues identified
-   adapt to your           flow, and history       weeks before
-   pipeline's behavior     unified                 failure
-```
 
 ---
 
