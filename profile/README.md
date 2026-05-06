@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Innervate_Engineering-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/innervate-engineering)
 [![Mail](https://img.shields.io/badge/Email-innervate--lab.com-0a66c2?style=flat-square&logo=mail)](mailto:contact@innervate-lab.com)
 
----
-
 `Monitor the Unmonitorable`
 
 ---
