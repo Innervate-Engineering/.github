@@ -12,15 +12,6 @@
 
 `Monitor the Unmonitorable`
 
-</div>
-
-## About
-
-UK-based engineering consultancy specializing in **non-intrusive pipeline monitoring** and **predictive asset integrity**. Our proprietary technology delivers real-time insights for unpiggable pipelines—no shutdowns, no invasive tools, no operational disruption.
-
-> **40% of pipeline infrastructure cannot be inspected with traditional tools.**  
-> We turn that data into predictive intelligence.
-
 ---
 
 ## Sectors
